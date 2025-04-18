@@ -1,0 +1,17 @@
+.line1{
+    height: 240px;
+    width: 200px;
+    background-color:bisque;
+    border:solid black 2px;
+}
+
+.line2{
+    text-align: center;
+    background-color: chocolate;
+}
+
+.result{
+    background-color: bisque;
+    color:black;
+    text-transform:capitalize;
+}
